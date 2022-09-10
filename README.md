@@ -1,16 +1,23 @@
-# internet_conn
+# Internet - Check
 
-A new Flutter project.
+A simple way to check internet connectivity using Stream Subscription in Flutter x Dart
 
-## Getting Started
+## Dependencies
+```bash
+flutter pub add connectivity_plus
+```
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub add connectivity_plus
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Results
+<p>
+<img src="https://github.com/Vishwa-Karthik/Internet-Check/blob/master/img1.jpg" width=200 height=400 />
+&nbsp
+<img src="https://github.com/Vishwa-Karthik/Internet-Check/blob/master/img2.jpg" width=200 height=400 />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## References
+1. [CONNECTIVITY PLUS](https://pub.dev/packages/connectivity_plus/install)
+2. [INTERNET CHECKER](https://pub.dev/packages/internet_connection_checker)
